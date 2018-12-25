@@ -1,0 +1,29 @@
+<div class="container">
+  <form class="id" id="login-form" action="/retrieve-login" method="post">
+    <div class="form-group">
+    <label for="asset1">Email/ID</label>
+    <input type="text" class="form-control" name="email" id="asset1" placeholder="Email">
+    </div>
+    <button
+      class="btn btn-primary g-recaptcha"
+      data-sitekey="<RECAPTCHA_SITE_KEY>"
+      data-callback="loginFormOnSubmit">
+      Login
+    </button>
+  </form>
+</div>
+
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=<GTAG_ID>"></script>
+<script>
+  function loginFormOnSubmit() {
+    document.getElementById('login-form').submit()
+  }
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '<GTAG_ID>');
+</script>

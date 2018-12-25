@@ -1,0 +1,8 @@
+<div class="container header-title">
+  <span>Your safe content</span>
+</div>
+<div class="container">
+  <% for (var i = 0; i < asset.length; i++) { %>
+  <input class="form-control add-form" type="text" value="<%= asset[i] %>" readonly>
+  <% } %>
+</div>

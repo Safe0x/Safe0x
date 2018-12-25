@@ -1,0 +1,29 @@
+<div class="container header-title">
+  <h3>Your 12 words phrase</h3>
+</div>
+<div class="container">
+  <span class="text-block">
+    <%= mnemonic %>
+  </span>
+</div>
+<div class="container">
+  <form class="id" id="mnemonic-build-form" action="/build-mnemonic" method="post">
+    <div class="form-group">
+      <label for="asset1">Email/ID</label>
+      <input type="text" class="form-control" name="email" id="asset1" placeholder="Email">
+    </div>
+    <button class="btn btn-primary g-recaptcha" data-sitekey="<RECAPTCHA_SITE_KEY>" data-callback="mnemonicBuildFormOnSubmit">
+      Submit
+    </button>
+  </form>
+</div>
+<div class="container note">
+  <p>Important: You must have the 12 words, ID and the safe code in order to open the safe.</p>
+</div>
+
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script>
+  function mnemonicBuildFormOnSubmit() {
+    document.getElementById('mnemonic-build-form').submit()
+  }
+</script>
