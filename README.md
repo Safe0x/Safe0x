@@ -6,7 +6,8 @@ The current version is a proof of concept.
 Safe0x is built on Nodejs and IPFS.
 
 # What is IPFS?
-IPFS (InterPlanetary File System) is a protocol and network designed to create a content-addressable, peer-to-peer method of storing and sharing hypermedia in a distributed file system.
+IPFS (InterPlanetary File System) is a protocol and network designed to create a content-addressable,  
+peer-to-peer method of storing and sharing hypermedia in a distributed file system.
 
 It is a peer-to-peer distributed file system that seeks to connect all computing devices with the same system of files.
 
@@ -21,13 +22,16 @@ Before, we used to keep our assets in bank safes.
 
 Our trusted family members, friends or lawyers can access our safe, they will be able to access our valuable assets.
 
-In today’s world, we keep our digital assets in one or multiple devices/websites. With the help of 2FA, password management software and hardware wallets we can keep our digital assets secure.
+In today’s world, we keep our digital assets in one or multiple devices/websites.  
+With the help of 2FA, password management software and hardware wallets we can keep our digital assets secure.
 
 # Motivation
 What happens to our digital wealth when we can’t access it because of death, lack of connectivity, security or any other reason?  
 How can we allow our trusted ones access our digital assets?
 
-The tricky situation is: We want to give people we trust an access when we are not available. But we don’t want to give up the private key. This is why give them a reference to the private key to access our digital wealth. Only when we can’t access it ourselves.
+The tricky situation is: We want to give people we trust an access when we are not available.  
+But we don’t want to give up the private key. This is why give them a reference to the private key to access our digital wealth.  
+Only when we can’t access it ourselves.
 
 # Terms
 The safe: is the note the digital asset holder creates on safe0x.me
