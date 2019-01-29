@@ -7,6 +7,16 @@ The current version is a proof of concept.
 
 Safe0x is built on Nodejs and IPFS.
 
+# What is IPFS?
+IPFS (InterPlanetary File System) is a protocol and network designed to create a content-addressable, peer-to-peer method of storing and sharing hypermedia in a distributed file system.
+
+It is a peer-to-peer distributed file system that seeks to connect all computing devices with the same system of files.
+
+For more details, check the following links:  
+https://ipfs.io/  
+https://github.com/ipfs/ipfs  
+https://en.wikipedia.org/wiki/InterPlanetary_File_System
+
 # Background
 With Bitcoin and Crypto assets reaching the mainstream. There is a new wealth being created online. 
 Before, we used to keep our assets in bank safes. 
