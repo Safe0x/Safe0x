@@ -1,11 +1,11 @@
 # Safe0x.me
 The digital treasure map
 
-Cryptosafe is a web app that enables digital asset owners to confidently share a reference to their assets with people they trust.
+Safe0x is a web app that enables digital asset owners to confidently share a reference to their assets with people they trust.
 
 The current version is a proof of concept. 
 
-It's built using: Nodejs and IPFS.
+It's built using: Nodejs and https://ipfs.io/.
 # Background
 With Bitcoin and Crypto assets reaching the mainstream. There is a new wealth being created online. 
 Before, we used to keep our assets in bank safes. 
