@@ -17,9 +17,9 @@ https://en.wikipedia.org/wiki/InterPlanetary_File_System
 
 # Background
 With Bitcoin and Crypto assets reaching the mainstream. There is a new wealth being created online.  
-Before, we used to keep our assets in bank safes. 
+Before, we used to keep our assets in bank safes.
 
-Our trusted family members, friends or lawyers can access our safe, they will be able to access our valuable assets. 
+Our trusted family members, friends or lawyers can access our safe, they will be able to access our valuable assets.
 
 In today’s world, we keep our digital assets in one or multiple devices/websites. With the help of 2FA, Password management softwares and hardware wallets we can keep our digital assets secured.
 
