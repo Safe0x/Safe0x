@@ -21,7 +21,7 @@ Before, we used to keep our assets in bank safes.
 
 Our trusted family members, friends or lawyers can access our safe, they will be able to access our valuable assets.
 
-In today’s world, we keep our digital assets in one or multiple devices/websites. With the help of 2FA, Password management softwares and hardware wallets we can keep our digital assets secured.
+In today’s world, we keep our digital assets in one or multiple devices/websites. With the help of 2FA, password management software and hardware wallets we can keep our digital assets secure.
 
 # Motivation
 What happens to our digital wealth when we can’t access it because of death, lack of connectivity, security or any other reason?  
