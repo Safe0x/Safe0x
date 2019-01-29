@@ -5,7 +5,7 @@ Safe0x is a web app that enables digital asset owners to confidently share a ref
 
 The current version is a proof of concept. 
 
-Safe0x is built on Nodejs and IPFS. IPFS is an interPlanetary File System is a protocol and network designed to create a content-addressable, peer-to-peer method of storing and sharing hypermedia in a distributed file system. IPFS is a peer-to-peer distributed file system that seeks to connect all computing devices with the same system of files. For more info: https://ipfs.io/.
+Safe0x is built on Nodejs and IPFS.
 
 # Background
 With Bitcoin and Crypto assets reaching the mainstream. There is a new wealth being created online. 
