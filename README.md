@@ -1,5 +1,5 @@
 # Safe0x.me
-The digital treasure map
+The digital treasure map.
 
 Safe0x is a web app that enables digital asset owners to confidently share a reference to their assets with people they trust.
 
