@@ -3,7 +3,7 @@ The digital treasure map.
 Safe0x is a web app that enables digital asset owners to confidently share a reference to their assets with people they trust.
 
 The current version is a proof of concept.  
-Safe0x is built on Nodejs and IPFS.
+Safe0x is built mainly using Nodejs and IPFS.
 
 # What is IPFS?
 IPFS (InterPlanetary File System) is a protocol and network designed to create a content-addressable,  
