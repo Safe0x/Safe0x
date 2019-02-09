@@ -35,3 +35,7 @@ Only when we can't access it ourselves.
 
 # Terms
 The safe: is the note the digital asset holder creates on safe0x.me
+
+# Attribution Notice
+Icons are designed by [Pause08](https://www.flaticon.com/authors/pause08) from [Flaticon](https://www.flaticon.com/).  
+Their license is [Flaticon Basic](https://file000.flaticon.com/downloads/license/license.pdf).
